@@ -1,4 +1,5 @@
 C:\Users\Usuario\Documents\NetBeansProjects\JavaWeb-Project2\JavaWeb-Project2\JavaWeb-Project1\src\main\java\Clases\Persona.java
+<<<<<<< HEAD
 C:\Users\Usuario\Documents\NetBeansProjects\JavaWeb-Project2\JavaWeb-Project2\JavaWeb-Project1\src\main\java\servlet\LoginServlet.java
 C:\Users\Usuario\Documents\NetBeansProjects\JavaWeb-Project2\JavaWeb-Project2\JavaWeb-Project1\src\main\java\Clases\Factura.java
 C:\Users\Usuario\Documents\NetBeansProjects\JavaWeb-Project2\JavaWeb-Project2\JavaWeb-Project1\src\main\java\Clases\Plato.java
@@ -14,3 +15,13 @@ C:\Users\Usuario\Documents\NetBeansProjects\JavaWeb-Project2\JavaWeb-Project2\Ja
 C:\Users\Usuario\Documents\NetBeansProjects\JavaWeb-Project2\JavaWeb-Project2\JavaWeb-Project1\src\main\java\Clases\Vendedor.java
 C:\Users\Usuario\Documents\NetBeansProjects\JavaWeb-Project2\JavaWeb-Project2\JavaWeb-Project1\src\main\java\control\GestionarPedidos.java
 C:\Users\Usuario\Documents\NetBeansProjects\JavaWeb-Project2\JavaWeb-Project2\JavaWeb-Project1\src\main\java\servlet\UsuarioServlet.java
+=======
+C:\Users\Usuario\Documents\NetBeansProjects\JavaWeb-Project2\JavaWeb-Project2\JavaWeb-Project1\src\main\java\Clases\Factura.java
+C:\Users\Usuario\Documents\NetBeansProjects\JavaWeb-Project2\JavaWeb-Project2\JavaWeb-Project1\src\main\java\Clases\Cliente.java
+C:\Users\Usuario\Documents\NetBeansProjects\JavaWeb-Project2\JavaWeb-Project2\JavaWeb-Project1\src\main\java\Clases\Plato.java
+C:\Users\Usuario\Documents\NetBeansProjects\JavaWeb-Project2\JavaWeb-Project2\JavaWeb-Project1\src\main\java\Clases\Administrador.java
+C:\Users\Usuario\Documents\NetBeansProjects\JavaWeb-Project2\JavaWeb-Project2\JavaWeb-Project1\src\main\java\com\mycompany\javaweb\project1\resources\JakartaEE10Resource.java
+C:\Users\Usuario\Documents\NetBeansProjects\JavaWeb-Project2\JavaWeb-Project2\JavaWeb-Project1\src\main\java\Clases\Vendedor.java
+C:\Users\Usuario\Documents\NetBeansProjects\JavaWeb-Project2\JavaWeb-Project2\JavaWeb-Project1\src\main\java\com\mycompany\javaweb\project1\JakartaRestConfiguration.java
+C:\Users\Usuario\Documents\NetBeansProjects\JavaWeb-Project2\JavaWeb-Project2\JavaWeb-Project1\src\main\java\Clases\Pedido.java
+>>>>>>> 32877c08d85787c0eae24dd03842a75788bcd8b1

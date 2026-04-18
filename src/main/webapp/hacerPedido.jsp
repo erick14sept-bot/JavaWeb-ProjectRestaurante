@@ -57,7 +57,11 @@
                                         <h6 class="mb-0 fw-bold"><%= p.getNombrePlato() %></h6>
                                         <span class="text-success small">$<%= p.getPrecio() %></span>
                                     </div>
+<<<<<<< HEAD
                                    <a href="PedidoServlet?accion=agregar&cod=<%= p.getCodigoPlato() %>" class="btn btn-warning btn-sm">+</a>
+=======
+                                    <a href="hacerPedido.jsp?addCod=<%= p.getCodigoPlato() %>" class="btn btn-warning btn-sm">+</a>
+>>>>>>> 32877c08d85787c0eae24dd03842a75788bcd8b1
                                 </div>
                             </div>
                         </div>
@@ -76,7 +80,11 @@
                                 <div class="d-flex justify-content-between mb-2 small">
                                     <span><%= item.getNombrePlato() %></span>
                                     <span>$<%= item.getPrecio() %> 
+<<<<<<< HEAD
                                         <a href="PedidoServlet?accion=eliminar&idx=<%= i %>" class="text-danger ms-2"><i class="bi bi-x-circle"></i></a>
+=======
+                                        <a href="hacerPedido.jsp?delIdx=<%= i %>" class="text-danger ms-2"><i class="bi bi-x-circle"></i></a>
+>>>>>>> 32877c08d85787c0eae24dd03842a75788bcd8b1
                                     </span>
                                 </div>
                             <% i++; } %>
@@ -85,7 +93,11 @@
                         <h4 class="text-warning text-end">Total: $<%= miPedido.getTotal() %></h4>
                         <div class="d-grid gap-2 mt-3">
                             <a href="verPedido.jsp" class="btn btn-primary <%= miPedido.getItems().isEmpty()?"disabled":"" %>">Confirmar</a>
+<<<<<<< HEAD
                             <a href="PedidoServlet?accion=vaciar" class="btn btn-outline-danger btn-sm">Vaciar</a>
+=======
+                            <a href="hacerPedido.jsp?nuevo=true" class="btn btn-outline-danger btn-sm">Vaciar</a>
+>>>>>>> 32877c08d85787c0eae24dd03842a75788bcd8b1
                         </div>
                     </div>
                 </div>
