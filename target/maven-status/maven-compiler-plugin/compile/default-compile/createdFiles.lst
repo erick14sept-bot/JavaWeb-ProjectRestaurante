@@ -1,2 +1,16 @@
 com\mycompany\javaweb\project1\resources\JakartaEE10Resource.class
+Clases\Cliente.class
+Clases\Factura.class
+Clases\Administrador.class
+control\GestionarUsuarios.class
+servlet\PedidoServlet.class
+Clases\Vendedor.class
+Clases\Persona.class
+servlet\UsuarioServlet.class
 com\mycompany\javaweb\project1\JakartaRestConfiguration.class
+servlet\LoginServlet.class
+control\GestionarPlatos.class
+Clases\Plato.class
+servlet\PlatoServlet.class
+control\GestionarPedidos.class
+Clases\Pedido.class
